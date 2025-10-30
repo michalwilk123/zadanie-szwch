@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+.venv/
+
+# Django
+*.log
+db.sqlite3
+/media
+/staticfiles
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+
+# Ruff
+.ruff_cache/
+.python-version
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
